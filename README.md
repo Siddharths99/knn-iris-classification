@@ -32,3 +32,7 @@ The following Python libraries are used:
 - **scikit-learn** → For machine learning (KNN, scaling, model evaluation)
 
 ---
+
+## ⚙️ Installation
+
+pip install pandas numpy matplotlib seaborn scikit-learn
