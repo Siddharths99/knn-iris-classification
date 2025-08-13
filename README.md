@@ -39,15 +39,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 -----------
 
-📊 Output
-Best K Value: 4
-
-Accuracy: 76.67%
-
-Confusion Matrix:
-
-[[10  0  0]
-
- [ 0  8  2]
- 
- [ 0  5  5]]
+🧠 Conclusion
+The K-Nearest Neighbors (KNN) model achieved an accuracy of 76.67% with the best K value being 4.
