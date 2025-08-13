@@ -47,5 +47,7 @@ Accuracy: 76.67%
 Confusion Matrix:
 
 [[10  0  0]
+
  [ 0  8  2]
+ 
  [ 0  5  5]]
