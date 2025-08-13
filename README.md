@@ -7,3 +7,16 @@ This project implements the **K-Nearest Neighbors (KNN)** classification algorit
 - Iris-virginica
 
 ----------------------
+## 📂 Dataset
+We use the **Iris dataset** (`Iris.csv`), which contains 150 rows and the following columns:
+
+| Column Name     | Description |
+|----------------|-------------|
+| Id             | Row index (removed during preprocessing) |
+| SepalLengthCm  | Sepal length in centimeters |
+| SepalWidthCm   | Sepal width in centimeters |
+| PetalLengthCm  | Petal length in centimeters |
+| PetalWidthCm   | Petal width in centimeters |
+| Species        | Target class (Iris-setosa, Iris-versicolor, Iris-virginica) |
+
+---
