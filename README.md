@@ -22,3 +22,13 @@ We use the **Iris dataset** (`Iris.csv`), which contains 150 rows and the follow
 ---
 
 ## 📦 Required Libraries
+
+The following Python libraries are used:
+
+- **pandas** → For data handling and manipulation  
+- **numpy** → For numerical operations  
+- **matplotlib** → For plotting graphs  
+- **seaborn** → For enhanced data visualization  
+- **scikit-learn** → For machine learning (KNN, scaling, model evaluation)
+
+---
