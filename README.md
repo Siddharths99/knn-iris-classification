@@ -39,5 +39,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 -----------
 
-🧠 Conclusion
+## 🧠 Conclusion
+
 The K-Nearest Neighbors (KNN) model achieved an accuracy of 76.67% with the best K value being 4.
