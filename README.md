@@ -1,1 +1,1 @@
-# knn-iris-classification
+# K-Nearest Neighbors (KNN) Classification - Iris Dataset
