@@ -35,4 +35,6 @@ The following Python libraries are used:
 
 ## ⚙️ Installation
 
-**pip install pandas numpy matplotlib seaborn scikit-learn
+pip install pandas numpy matplotlib seaborn scikit-learn
+
+-----------
